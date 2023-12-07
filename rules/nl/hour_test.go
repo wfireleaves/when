@@ -1,9 +1,9 @@
 package nl_test
 
 import (
-	"github.com/olebedev/when"
-	"github.com/olebedev/when/rules"
-	"github.com/olebedev/when/rules/nl"
+	"github.com/wfireleaves/when"
+	"github.com/wfireleaves/when/rules"
+	"github.com/wfireleaves/when/rules/nl"
 	"testing"
 	"time"
 )

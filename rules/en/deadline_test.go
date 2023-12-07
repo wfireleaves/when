@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/olebedev/when"
-	"github.com/olebedev/when/rules"
-	"github.com/olebedev/when/rules/en"
+	"github.com/wfireleaves/when"
+	"github.com/wfireleaves/when/rules"
+	"github.com/wfireleaves/when/rules/en"
 )
 
 func TestDeadline(t *testing.T) {
